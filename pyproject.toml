@@ -27,7 +27,7 @@ optional = true
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.1.0"
-mypy = "^1.0.1"
+mypy = "^1.2.0"
 pre-commit = "^3.0.4"
 ruff = "^0.0.254"
 vulture = "^2.7"
