@@ -1,0 +1,52 @@
+# node
+node_modules
+
+# yarn
+.yarn/*
+!.yarn/cache
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+!.yarn/patches
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# IDE
+.idea
+*.iml
+.history
+mypy.ini
+
+# docs
+documentation-gitbook/root/
+documentation-gitbook/SUMMARY.md
+documentation-gitbook/_book
+
+# common
+.env
+.rpt2_cache
+
+# JUnit reports
+test-reports/
+
+# Jest
+/coverage
+/test-report.xml
+
+# Sonar Scanner
+/.scannerwork
+
+# translations
+translations.xlsx
+
+# TPForge mock
+tpforge-mock
+
+# SWC
+.swc
+
+# turbo
+/.turbo
